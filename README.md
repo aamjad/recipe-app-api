@@ -27,3 +27,7 @@ docker-compose run app sh -c "python manage.py makemigrations core"
 ''' everytime you change the model, you need to run the migrations again
 
 
+
+docker-compose up
+
+
